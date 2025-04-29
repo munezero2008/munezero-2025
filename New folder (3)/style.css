@@ -1,0 +1,113 @@
+.container{
+ display: flex;
+   
+    
+    
+}
+    
+.forms{
+  
+   
+    background-color: greenyellow;
+   
+    padding: 170px;
+   padding-top: 20px;
+background-image: url(i.jpg);
+color: aliceblue;
+
+
+ 
+
+}
+.forms h1{
+    font-size: 2.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    width: 180%;
+    text-align: center;
+    
+   
+}
+.forms input{
+    text-transform: capitalize;
+    font-family: 'poppins,san-serif';
+    border-radius: 40px;
+    font-size: 20px;
+    position: relative;
+    width: 180%;
+    border: white;
+    padding-left: 20px;
+    padding: 12px 20px;
+    position: relative;
+    
+}
+.d1{
+ color: white;   
+background-image: url(i.jpg);
+
+padding: 280px;
+ 
+}
+body{
+    margin: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins,san-serif';
+}
+
+.forms i{
+    position: absolute;
+    transform: translateY(-30px);
+    right: 2cm;
+    color: rgb(0, 0, 0);
+}
+button{
+   padding: 12px 20px;
+   width: 180%;
+   border-radius: 40px;
+   background: #0078ff;
+   font-size: 1.2em;
+   background: linear-gradient(45deg,#ff357a);
+   border: none ;
+}
+.d1 h1{
+    color: black;
+    font-size: large;
+    font-weight: 6000px;
+}
+.d1 h2{
+    color: black;
+    font-size: large;
+}
+.d1 p{
+    color: black;
+   
+   
+}
+#x{
+    font-size: 60px;
+}
+.d1 a:hover{
+    transform: translateY(-15px);
+    color: aqua;
+}
+.links{
+    width: 180%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.links a{
+    text-decoration: none;
+    color: #fff;
+}
+.placeholder{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+}
+.input i{
+    position:absolute;
+}
